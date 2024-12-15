@@ -88,6 +88,7 @@ src/
 Se estiver utilizando um firewall ou antivírus com extensão no navegador, desative-o.
 
 ## Links do Figma 
+https://www.figma.com/design/D0y6IYSuGX6g83gfAzcMZH/codpol?node-id=4-16&t=Xh3mZ2tT8CjCG5of-1
 https://www.figma.com/proto/D0y6IYSuGX6g83gfAzcMZH/codpol?node-id=0-1&t=KDDXvwjKt30KYrdT-1
 https://www.figma.com/design/D0y6IYSuGX6g83gfAzcMZH/codpol?node-id=0-1&m=dev&t=KDDXvwjKt30KYrdT-1
 
