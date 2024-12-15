@@ -87,6 +87,10 @@ src/
 ## Observação
 Se estiver utilizando um firewall ou antivírus com extensão no navegador, desative-o.
 
+## Links do Figma 
+https://www.figma.com/proto/D0y6IYSuGX6g83gfAzcMZH/codpol?node-id=0-1&t=KDDXvwjKt30KYrdT-1
+https://www.figma.com/design/D0y6IYSuGX6g83gfAzcMZH/codpol?node-id=0-1&m=dev&t=KDDXvwjKt30KYrdT-1
+
 ## Licença
 
 Este projeto está sob a licença.
