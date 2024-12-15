@@ -31,7 +31,7 @@ Sistema web para registro e gerenciamento de ocorrências policiais desenvolvido
 
 1. Clone o repositório:
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/alexgondim/cadpol.git
 ```
 
 2. Instale as dependências:
